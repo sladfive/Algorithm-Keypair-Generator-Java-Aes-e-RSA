@@ -12,6 +12,8 @@ AES
 You can find all the explanations about Symmetric key AES algorithm
 
 
+
+
 RSA
 - creation of asymmetric encryption keys
 - text encryption
